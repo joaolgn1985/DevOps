@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-cachier",["= 1.2.1"]],["vagrant-proxyconf",["= 2.0.6"]],["log4r",[">= 0"]],["concurrent-ruby",["~> 1.0"]],["i18n",[">= 0"]],["micromachine",[">= 2","< 4"]],["vagrant-vbguest",["= 0.20.0"]]],"checksum":"1b366f9c68fc05898e97dc7d99ac3639688152bb1286499867dcb7d9f8a4ef53","vagrant_version":"2.2.14"}
